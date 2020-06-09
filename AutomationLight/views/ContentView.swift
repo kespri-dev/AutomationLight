@@ -15,6 +15,7 @@ struct ContentView: View {
             HeaderView()
                 .padding()
             LampConfigurationView()
+                .edgesIgnoringSafeArea(.bottom)
         }.edgesIgnoringSafeArea(.bottom)
     }
 }

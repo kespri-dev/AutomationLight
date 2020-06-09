@@ -10,7 +10,11 @@ Weekend UI challenge proposed by [iam_iosdev](https://www.instagram.com/iam_iosd
 
 ## Screenshots
 
-- Dark mode: ![darkmode](./resources/dark.PNG)
+### Dark mode
 
-- Light mode: ![lightmode](./resources/light.PNG)
+![darkmode](./resources/dark.PNG)
+
+### Light mode
+
+![lightmode](./resources/light.PNG)
 
